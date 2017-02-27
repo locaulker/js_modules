@@ -9,6 +9,9 @@
   "author": "Lawrence C",
   "license": "ISC",
   "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-env": "^1.1.10",
     "webpack": "^2.2.0-rc.0"
   }
 }
